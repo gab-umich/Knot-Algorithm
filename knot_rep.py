@@ -1,4 +1,6 @@
-# Gabriel Luo Mar. 2020, University of Michigan Math 389
+# Gabriel Luo, Erica Liu
+# Mar. 2020, University of Michigan.
+# Math 389 Knot Research Project amidst a pandemic.
 from __future__ import annotations
 from typing import List
 
