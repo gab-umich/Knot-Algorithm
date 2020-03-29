@@ -142,3 +142,7 @@ cython_debug/
 media
 static
 
+
+.idea/workspace.xml
+
+.idea/
